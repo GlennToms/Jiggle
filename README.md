@@ -17,5 +17,5 @@ Welcome to **JIGGLE**, a PowerShell-based software mouse jiggler that keeps your
 ## Installation
 1. **Download or Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/jiggle.git
+   git clone https://github.com/GlennToms/jiggle.git
    cd jiggle
